@@ -1,0 +1,23 @@
+title: Ikutaro Hamada
+description: Computational Materials Physics | Electronic structure theory, Surface and Interface Science
+
+theme: just-the-docs
+color_scheme: light
+
+url: https://ikuhamada.github.io
+
+markdown: kramdown
+
+aux_links:
+  GitHub:
+    - https://github.com/ikuhamada
+  Google Scholar:
+    - https://scholar.google.com/
+  ORCID:
+    - https://orcid.org/0000-0001-5112-2452
+
+footer_content: "Copyright Ikutaro Hamada"
+
+nav_enabled: true
+heading_anchors: true
+search_enabled: true
