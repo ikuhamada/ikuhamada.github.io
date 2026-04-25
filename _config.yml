@@ -4,6 +4,9 @@ description: Computational Materials Physics | Electronic structure theory, Surf
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 
+plugins:
+  - jekyll-remote-theme
+
 url: https://ikuhamada.github.io
 
 markdown: kramdown
